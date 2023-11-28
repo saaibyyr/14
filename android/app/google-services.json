@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "289737036692",
+    "project_id": "auth-edb70",
+    "storage_bucket": "auth-edb70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289737036692:android:c6cf9ef7b010586405b581",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQsnuHohZAaABbyd8PgqeZZEFF91Fnuw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
